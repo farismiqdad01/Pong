@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\BallControl.cs" />
+    <Compile Include="Assets\ComPaddle.cs" />
     <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\KunalTandon\DottedLine\Scripts\DottedLine.cs" />
     <Compile Include="Assets\KunalTandon\DottedLine\Scripts\DottedLineDemo.cs" />

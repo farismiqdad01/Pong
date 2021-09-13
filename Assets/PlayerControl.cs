@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
+    
     // Tombol untuk menggerakkan ke atas
     public KeyCode upButton = KeyCode.W;
 
